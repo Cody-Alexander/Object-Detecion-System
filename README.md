@@ -16,13 +16,13 @@ This project demonstrates real-time object detection using a pre-trained YOLOv5 
    git clone https://github.com/Cody-Alexander/Object-Detection-System.git
    cd object_detection
    ```
-**Create and Activate a Virtual Environment:**
+2. **Create and Activate a Virtual Environment:**
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
-**Install Dependencies:**
+3. **Install Dependencies:**
 
 
 ## Usage
