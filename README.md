@@ -34,12 +34,10 @@ python main.py
 The video stream will display in a window with detected objects highlighted. Press the 'q' key to quit. Frames with detected objects will be saved in the frames directory.
 
 ## Troubleshooting
-Import Errors: Ensure all dependencies are installed correctly. Reinstall them if necessary.
-Attribute Errors: Make sure you are using the correct version of YOLOv5. Check the YOLOv5 documentation for any recent changes.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+- Import Errors: Ensure all dependencies are installed correctly. Reinstall them if necessary.
+- Attribute Errors: Make sure you are using the correct version of YOLOv5. Check the YOLOv5 documentation for any recent changes.
 
 ## Acknowledgments
-Ultralytics YOLOv5 for the pre-trained object detection model.
-OpenCV for real-time video processing.
-PyTorch for deep learning framework.
+- Ultralytics YOLOv5 for the pre-trained object detection model.
+- OpenCV for real-time video processing.
+- PyTorch for deep learning framework.
